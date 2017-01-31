@@ -24,7 +24,7 @@ If you get the following error:
 ```
 'pip' is not recognized as an internal or external command
 ```
-Then kindly install pip:
+Then kindly install pip, then continue the above step:
 ```
 $: sudo apt-get install python-pip
 ```
