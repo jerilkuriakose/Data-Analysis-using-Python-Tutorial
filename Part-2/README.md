@@ -15,6 +15,7 @@ The above mentioned dependencies can be installed from the *terminal*, using the
 $: pip install --upgrade -r requirements.txt
 ```
 Note: The requirement of txt files can be found in this directory or can be obtained from here.
+
 If you get the following error:
 ```
 'pip' is not recognized as an internal or external command
