@@ -1,7 +1,5 @@
-numpy
-matplotlib
 pandas
-scipy
+statsmodels
+matplotlib
 jupyter
 sklearn
-statsmodels
